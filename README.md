@@ -2,7 +2,7 @@
 
 <br>
 
-Javascript syntax exercises with VSCode at KIT Univ.
+Exercises in the javascript language using vscode in KIT Univ.
 
 <br>
 
