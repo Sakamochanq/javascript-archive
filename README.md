@@ -6,7 +6,7 @@ Javascript syntax exercises with VSCode at KIT Univ.
 
 <br>
 
-[![](https://img.shields.io/badge/Lincese-Unlicense-blue)](https://github.com/Sakamochanq/javascript-archive/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Lincese-Unlicense-yellow)](https://github.com/Sakamochanq/javascript-archive/blob/master/LICENSE)
 
 ---
 
