@@ -1,4 +1,4 @@
-### javascript-arhicve
+### javascript-archive
 
 <br>
 
