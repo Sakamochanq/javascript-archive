@@ -2,7 +2,7 @@
 
 <br>
 
-Exercises in the javascript language using vscode in KIT Univ.
+Exercises in the javascript language using vscode.
 
 <br>
 
